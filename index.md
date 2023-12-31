@@ -2,6 +2,7 @@
 dg-publish: true
 dg-home: true
 share: true
+title: index
 ---
 
 ![[F2IH_RsbYAAl8f3.jpg|F2IH_RsbYAAl8f3.jpg]]
