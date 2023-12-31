@@ -1,6 +1,6 @@
 site_name: Sunast_notes # Change this to your site name
 site_description: my own notes
-site_url: sysysyx.github.io # Change this to your site URL
+site_url: http://sysysyx.github.io # Change this to your site URL
 site_author: sunast
 
 theme:
